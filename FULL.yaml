@@ -1,0 +1,197 @@
+proxies:
+- name: BJ99
+  type: trojan
+  server: 172.66.152.99
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: bidji-23.patunganvps.us
+  sni: bidji-23.patunganvps.us
+  skip-cert-verify: true  
+- name: BJ5-139
+  type: trojan
+  server: 104.18.25.139
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: bidji-23.patunganvps.us
+  sni: bidji-23.patunganvps.us
+  skip-cert-verify: true
+- name: BJ4-139
+  type: trojan
+  server: 104.18.24.139
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: bidji-23.patunganvps.us
+  sni: bidji-23.patunganvps.us
+  skip-cert-verify: true
+- name: BJ2-2
+  type: trojan
+  server: 104.18.2.2
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: bidji-23.patunganvps.us
+  sni: bidji-23.patunganvps.us
+  skip-cert-verify: true
+- name: BJ3-2
+  type: trojan
+  server: 104.18.3.2
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: bidji-23.patunganvps.us
+  sni: bidji-23.patunganvps.us
+  skip-cert-verify: true
+  
+- name: FSIN99
+  type: trojan
+  server: 172.66.152.99
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: midtrans.cyou
+  sni: midtrans.cyou
+- name: FSIN5-139
+  type: trojan
+  server: 104.18.25.139
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: midtrans.cyou
+  sni: midtrans.cyou
+  skip-cert-verify: true
+- name: FSIN4-139
+  type: trojan
+  server: 104.18.24.139
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: midtrans.cyou
+  sni: midtrans.cyou
+  skip-cert-verify: true
+- name: FSIN2-2
+  type: trojan
+  server: 104.18.2.2
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: midtrans.cyou
+  sni: midtrans.cyou
+  skip-cert-verify: true
+- name: FSIN3-2
+  type: trojan
+  server: 104.18.3.2
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: midtrans.cyou
+  sni: midtrans.cyou
+  skip-cert-verify: true
+
+- name: L99
+  type: trojan
+  server: 172.66.152.99
+  port: 443
+  password: ExE6bBq0Vowv9NcPrPU3kw
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: leaseweb-6.patunganvps.us
+  sni: leaseweb-6.patunganvps.us
+  skip-cert-verify: true  
+- name: L5-139
+  type: trojan
+  server: 104.18.25.139
+  port: 443
+  password: ExE6bBq0Vowv9NcPrPU3kw
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: leaseweb-6.patunganvps.us
+  sni: leaseweb-6.patunganvps.us
+  skip-cert-verify: true
+- name: L4-139
+  type: trojan
+  server: 104.18.24.139
+  port: 443
+  password: ExE6bBq0Vowv9NcPrPU3kw
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: leaseweb-6.patunganvps.us
+  sni: leaseweb-6.patunganvps.us
+  skip-cert-verify: true
+- name: L2-2
+  type: trojan
+  server: 104.18.2.2
+  port: 443
+  password: ExE6bBq0Vowv9NcPrPU3kw
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: leaseweb-6.patunganvps.us
+  sni: leaseweb-6.patunganvps.us
+  skip-cert-verify: true
+- name: L3-2
+  type: trojan
+  server: 104.18.3.2
+  port: 443
+  password: ExE6bBq0Vowv9NcPrPU3kw
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: leaseweb-6.patunganvps.us
+  sni: leaseweb-6.patunganvps.us
+  skip-cert-verify: true
