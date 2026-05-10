@@ -1,0 +1,275 @@
+proxies:
+- name: MASTIFFSIN157
+  type: trojan
+  server: 172.66.0.157
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: support.zoom.us.midtrans.cyou
+  sni: support.zoom.us.midtrans.cyou
+  skip-cert-verify: true
+- name: MASTIFFSIN145
+  type: trojan
+  server: 172.66.0.145
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: support.zoom.us.midtrans.cyou
+  sni: support.zoom.us.midtrans.cyou
+  skip-cert-verify: true
+- name: MASTIFBJ157
+  type: trojan
+  server: 172.66.0.157
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: support.zoom.us.bidji-23.patunganvps.us
+  sni: support.zoom.us.bidji-23.patunganvps.us
+  skip-cert-verify: true
+- name: MASTIFBJ145
+  type: trojan
+  server: 172.66.0.145
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: support.zoom.us.bidji-23.patunganvps.us
+  sni: support.zoom.us.bidji-23.patunganvps.us
+  skip-cert-verify: true
+- name: MASTIFL157
+  type: trojan
+  server: 172.66.0.157
+  port: 443
+  password: ExE6bBq0Vowv9NcPrPU3kw
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: support.zoom.us.leaseweb-6.patunganvps.us
+  sni: support.zoom.us.leaseweb-6.patunganvps.us
+  skip-cert-verify: true
+- name: MASTIFL145
+  type: trojan
+  server: 172.66.0.145
+  port: 443
+  password: ExE6bBq0Vowv9NcPrPU3kw
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: support.zoom.us.leaseweb-6.patunganvps.us
+  sni: support.zoom.us.leaseweb-6.patunganvps.us
+  skip-cert-verify: true
+  
+- name: FSIN238
+  type: trojan
+  server: 104.18.42.238
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: ava.game.naver.com.midtrans.cyou
+  sni: ava.game.naver.com.midtrans.cyou
+  skip-cert-verify: true
+- name: FSIN235
+  type: trojan
+  server: 104.18.213.235
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: ava.game.naver.com.midtrans.cyou
+  sni: ava.game.naver.com.midtrans.cyou
+  skip-cert-verify: true
+- name: FSIN11
+  type: trojan
+  server: 162.159.129.11
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: ava.game.naver.com.midtrans.cyou
+  sni: ava.game.naver.com.midtrans.cyou
+  skip-cert-verify: true
+- name: FSIN32
+  type: trojan
+  server: 23.227.38.32
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: ava.game.naver.com.midtrans.cyou
+  sni: ava.game.naver.com.midtrans.cyou
+  skip-cert-verify: true
+- name: FSIN18
+  type: trojan
+  server: 172.64.145.18
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: ava.game.naver.com.midtrans.cyou
+  sni: ava.game.naver.com.midtrans.cyou
+  skip-cert-verify: true
+ - name: BJ18
+  type: trojan
+  server: 172.64.145.18
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: ava.game.naver.com.bidji-23.patunganvps.us
+  sni: ava.game.naver.com.bidji-23.patunganvps.us
+  skip-cert-verify: true
+- name: BJ32
+  type: trojan
+  server: 23.227.38.32
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: ava.game.naver.com.bidji-23.patunganvps.us
+  sni: ava.game.naver.com.bidji-23.patunganvps.us
+  skip-cert-verify: true
+- name: BJ11
+  type: trojan
+  server: 162.159.129.11
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: ava.game.naver.com.bidji-23.patunganvps.us
+  sni: ava.game.naver.com.bidji-23.patunganvps.us
+  skip-cert-verify: true
+- name: BJ235
+  type: trojan
+  server: 104.18.213.235
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: ava.game.naver.com.bidji-23.patunganvps.us
+  sni: ava.game.naver.com.bidji-23.patunganvps.us
+  skip-cert-verify: true
+- name: BJ238
+  type: trojan
+  server: 104.18.42.238
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: ava.game.naver.com.bidji-23.patunganvps.us
+  sni: ava.game.naver.com.bidji-23.patunganvps.us
+  skip-cert-verify: true  
+- name: L18
+  type: trojan
+  server: 172.64.145.18
+  port: 443
+  password: ExE6bBq0Vowv9NcPrPU3kw
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: ava.game.naver.com.ava.game.naver.com.leaseweb-6.patunganvps.us
+  sni: ava.game.naver.com.leaseweb-6.patunganvps.us
+  skip-cert-verify: true
+- name: L32
+  type: trojan
+  server: 23.227.38.32
+  port: 443
+  password: ExE6bBq0Vowv9NcPrPU3kw
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: ava.game.naver.com.leaseweb-6.patunganvps.us
+  sni: ava.game.naver.com.leaseweb-6.patunganvps.us
+  skip-cert-verify: true
+- name: L11
+  type: trojan
+  server: 162.159.129.11
+  port: 443
+  password: ExE6bBq0Vowv9NcPrPU3kw
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: ava.game.naver.com.leaseweb-6.patunganvps.us
+  sni: ava.game.naver.com.leaseweb-6.patunganvps.us
+  skip-cert-verify: true
+- name: L235
+  type: trojan
+  server: 104.18.213.235
+  port: 443
+  password: ExE6bBq0Vowv9NcPrPU3kw
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: ava.game.naver.com.leaseweb-6.patunganvps.us
+  sni: ava.game.naver.com.leaseweb-6.patunganvps.us
+  skip-cert-verify: true
+- name: L238
+  type: trojan
+  server: 104.18.42.238
+  port: 443
+  password: ExE6bBq0Vowv9NcPrPU3kw
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: ava.game.naver.com.leaseweb-6.patunganvps.us
+  sni: ava.game.naver.com.leaseweb-6.patunganvps.us
+  skip-cert-verify: true
