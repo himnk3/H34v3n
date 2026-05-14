@@ -1,0 +1,66 @@
+proxies:
+- name: BJ99
+  type: trojan
+  server: 172.66.152.99
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: bidji-23.patunganvps.us
+  sni: bidji-23.patunganvps.us
+  skip-cert-verify: true  
+- name: BJ5-139
+  type: trojan
+  server: 104.18.25.139
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: bidji-23.patunganvps.us
+  sni: bidji-23.patunganvps.us
+  skip-cert-verify: true
+- name: BJ4-139
+  type: trojan
+  server: 104.18.24.139
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: bidji-23.patunganvps.us
+  sni: bidji-23.patunganvps.us
+  skip-cert-verify: true
+- name: BJ2-2
+  type: trojan
+  server: 104.18.2.2
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: bidji-23.patunganvps.us
+  sni: bidji-23.patunganvps.us
+  skip-cert-verify: true
+- name: BJ3-2
+  type: trojan
+  server: 104.18.3.2
+  port: 443
+  password: QVieKQstT0egpIZGSRwChg
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: bidji-23.patunganvps.us
+  sni: bidji-23.patunganvps.us
+  skip-cert-verify: true
