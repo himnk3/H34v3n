@@ -1,0 +1,119 @@
+proxies:
+- name: L196
+  type: trojan
+  server: 104.18.9.196
+  port: 443
+  password: FCK-9P0vzg_waBShyVd3QQ
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: leaseweb-5.patunganvps.us
+  sni: leaseweb-5.patunganvps.us
+  skip-cert-verify: true
+- name: L196G
+  type: trojan
+  server: 104.18.9.196
+  port: 443
+  password: FCK-9P0vzg_waBShyVd3QQ
+  network: grpc
+  sni: leaseweb-5.patunganvps.us
+  skip-cert-verify: false
+  udp: true
+  alpn:
+    - h2
+  grpc-opts:
+    grpc-service-name: trojan-service  
+- name: L214
+  type: trojan
+  server: 104.18.17.214
+  port: 443
+  password: FCK-9P0vzg_waBShyVd3QQ
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: leaseweb-5.patunganvps.us
+  sni: leaseweb-5.patunganvps.us
+  skip-cert-verify: true
+- name: L8-196
+  type: trojan
+  server: 104.18.8.196
+  port: 443
+  password: FCK-9P0vzg_waBShyVd3QQ
+  udp: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: leaseweb-5.patunganvps.us
+  sni: leaseweb-5.patunganvps.us
+  skip-cert-verify: true
+- name: L8-196G
+  type: trojan
+  server: 104.18.8.196
+  port: 443
+  password: FCK-9P0vzg_waBShyVd3QQ
+  network: grpc
+  sni: leaseweb-5.patunganvps.us
+  skip-cert-verify: false
+  udp: true
+  alpn:
+    - h2
+  grpc-opts:
+    grpc-service-name: trojan-service  
+- name: L214G
+  type: trojan
+  server: 104.18.17.214
+  port: 443
+  password: FCK-9P0vzg_waBShyVd3QQ
+  network: grpc
+  sni: leaseweb-5.patunganvps.us
+  skip-cert-verify: false
+  udp: true
+  alpn:
+    - h2
+  grpc-opts:
+    grpc-service-name: trojan-service
+
+- name: FSIN196
+  type: trojan
+  server: 104.18.9.196
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: midtrans.cyou
+  sni: midtrans.cyou
+  skip-cert-verify: true
+- name: FSIN8-196
+  type: trojan
+  server: 104.18.8.196
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: midtrans.cyou
+  sni: midtrans.cyou
+  skip-cert-verify: true
+- name: FS214
+  type: trojan
+  server: 104.18.17.214
+  port: 443
+  password: 4663e2242d5ae6a0
+  udp: true
+  network: ws
+  ws-opts:
+    path: /amazing-monetize-to-remote-work/buy-trojan-ws-pm-telegram-at-synricha
+    headers:
+      Host: midtrans.cyou
+  sni: midtrans.cyou
+  skip-cert-verify: true
